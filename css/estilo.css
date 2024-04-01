@@ -1,8 +1,14 @@
 *{
-    padding: 0px;
-    margin: 0px;
+    padding: 1px;
+    margin: 2px;
 }
 
-.num1{
-
+#calc{
+    background-color: white;
  }
+
+#calc:hover{
+    background-color: black;
+    color: bisque;
+    cursor: pointer;
+}
