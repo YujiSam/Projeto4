@@ -12,3 +12,17 @@
     color: bisque;
     cursor: pointer;
 }
+
+#resultado{
+    font-size: 20px;
+    font-family: cursive;
+    color: lightgreen;
+    margin: auto;
+}
+
+#resultado:hover{
+    font-size: 2cm;
+    font-style:oblique;
+    font-size-adjust: auto;
+    text-align: center;
+}
